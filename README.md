@@ -1,2 +1,2 @@
 # clipper_example
-An part of old clipper program
+Part of an old clipper program
